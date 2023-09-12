@@ -44,7 +44,7 @@ if(Modernizr.webgl) {
 		  container: 'map', // container id
 		  style: 'data/style.json', //stylesheet location
 			//style: 'https://s3-eu-west-1.amazonaws.com/tiles.os.uk/v2/styles/open-zoomstack-night/style.json',
-		  center: [-1.27, 50.8106], // starting position51.5074° N, 0.127850.910637,-1.27441
+		  center: [-1.0807603987012158, 53.96546788682073], // starting position51.5074° N, 0.127850.910637,-1.27441
 		  zoom:10, // starting zoom
 		  minZoom:4,
 			maxZoom: 17, //
